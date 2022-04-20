@@ -1,2 +1,3 @@
 My first line in the project
 Paris is the capital of France
+git schmitt.. schmitt git ..
